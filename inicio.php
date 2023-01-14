@@ -1,14 +1,15 @@
 <?php
-  echo "Ejemplo de pull"
+  echo "Ejemplo de pull";
     
-   $persona = [
-                "Nombre" => "Pedro",
-                "apellido" => "Sanchez",
-                "edad" => 50
-              ];
+//    $persona = [
+//                 "Nombre" => "Pedro",
+//                 "apellido" => "Sanchez",
+//                 "edad" => 50
+//               ];
 
-  foreach($persona as $valor){
-    echo "$valor <br>";
-  }
+//   foreach($persona as $valor){
+//     echo "$valor <br>";
+//   }
     
 ?>
+
